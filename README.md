@@ -7,7 +7,6 @@
 
 Setup instructions:
 
-- Drupal 10 Composer Project
 - docker-compose build
 - docker-compose up -d
 - composer dump-autoload
